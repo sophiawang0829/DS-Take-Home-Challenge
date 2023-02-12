@@ -28,3 +28,12 @@ The goal of this challenge to predict when employees are going to quit by unders
 That is, if by 2012/03/02 2000 people have joined company 1 and 1000 of them have already quit, then company headcount on 2012/03/02 for company 1 would be 1000. You should create a table with 3 columns: day, employee_headcount, company_id.
 - What are the main factors that drive employee churn? Do they make sense? Explain your findings.
 - If you could add to this data set just one variable that could help explain employee churn, what would that be?
+
+
+### 4. Identifying Fraudulent Activities
+##### Goal:
+The goal of this challenge is to build a machine learning model that predicts the probability that the first transaction of a new user is fraudulent.
+##### Challenge Description:
+- Build a model to predict whether an activity is fraudulent or not. Explain how different assumptions about the cost of false positives vs false negatives would impact the model.
+- How would you explain how the model is making the predictions? Not from a mathematical perspective, but from a user perspective. What kinds of users are more likely to be classified as at risk? What are their characteristics?
+- Let's say you now have this model which can be used live to predict in real time if an activity is fraudulent or not. From a product perspective, how would you use it? That is, what kind of different user experiences would you build based on the model output?
