@@ -37,3 +37,14 @@ The goal of this challenge is to build a machine learning model that predicts th
 - Build a model to predict whether an activity is fraudulent or not. Explain how different assumptions about the cost of false positives vs false negatives would impact the model.
 - How would you explain how the model is making the predictions? Not from a mathematical perspective, but from a user perspective. What kinds of users are more likely to be classified as at risk? What are their characteristics?
 - Let's say you now have this model which can be used live to predict in real time if an activity is fraudulent or not. From a product perspective, how would you use it? That is, what kind of different user experiences would you build based on the model output?
+
+
+### 5. Funnel Analysis
+##### Goal:
+The goal is to perform funnel analysis for an e-commerce website.
+##### Challenge Description:
+The company CEO isn't very happy with the ]oluTe oM sales and, especially, oM sales coming from new users. Therefore, she asked you to investigate whether there is something wrong in the conversion funnel or, in general, if you could suggest how conversion rate can be improved.
+Specifically, she is interested in :
+- A full picture of funnel conversion rate for both desktop and mobile
+- Some insights on what the product team should focus on in order to improve conversion rate as well as anything you might discover that could help improve
+
