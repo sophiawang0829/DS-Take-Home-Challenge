@@ -61,4 +61,20 @@ Especially he asked you the following questions:
 - [Bonus] The VP of Product feels that the test has been running for too long and he should have been able to get statistically significant results in a shorter time. Do you agree with her intuition? After how many days you would have stopped the test? Please, explain why.
 
 
+### 7. Marketing Email Campaign
+##### Goal:
+The goal is to optimize marketing campaigns.
+##### Challenge Description:
+You are in charge of figuring out how the email campaign performed and were asked the following questions:
+- What percentage of users opened the email and what percentage clicked on the link within the email?
+- The VP of marketing thinks that it is stupid to send emails to a random subset and in a random way. Based on all the information you have about the emails that were sent, can you build a model to optimize in future email campaigns to maximize the probability of users clicking on the link inside the email?
+- By how much do you think your model would improve click through rate (defined as # of users who click on the link / total users who received the email). How would you test that?
+- Did you find any interesting pattern on how the email campaign performed for different segments of users? Explain.
+
+
+
+
+
+
+
 
