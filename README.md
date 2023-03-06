@@ -81,3 +81,13 @@ The goal is to learn dealing with json files.
 - The CEO wants to send a gift to the first user who signed-up for each state. That is, the first user who signed-up from California, from Oregon, etc. Can you give him a list of those users?
 - Build a function that takes as an input any of the songs in the data and returns the most likely song to be listened next. That is, if, for instance, a user is currently listening to "Eight Days A Week", which song has the highest probability of being played right after it by the same user? This is going to be v1 of a song recommendation model.
 - How would you set up a test to check whether your model works well and is improving engagement?
+
+
+### 9. Clustering Grocery Items
+##### Goal:
+The goal of this challenge is to look at user purchase history and create categories of items that are likely to be bought together and, therefore, should belong to the same section.
+##### Challenge Description:
+- The company founder wants to meet with some of the best customers to go through a focus group with them. You are asked to send the ID of the following customers to the founder:
+  - the customer who bought the most items overall in her lifetime 
+  - for each item, the customer who bought that product the most
+- Cluster items based on user co-purchase history. That is, create clusters of products that have the highest probability of being bought together. The goal of this is to replace the old/manually created categories with these new ones. Each item can belong to just one cluster.
