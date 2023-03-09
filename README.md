@@ -100,3 +100,12 @@ You have a dataset of credit card transactions and you have to identify unusual/
 - Your boss wants to identify those users that in your dataset never went above the monthly credit card limit(calendar month). The goal of this is to automatically increase their limit. Can you send him the list of Ids?
 - On the other hand, she wants you to implement an algorithm that as soon as a user goes above her monthly limit, it triggers an alert so that the user can be notified about that. We assume here that at the beginning of the new month, user total money spent gets reset to zero (i.e. she pays the card fully at the end of each month) Build a function that for each day, returns a list of users who went above their credit card monthly limit on that day.
 - Finally, your boss is very concerned about frauds cause they are a huge cost for credit card companies. She wants you to implement an unsupervised algorithm that returns all transactions that seem unusual and are worth being investigated further.
+
+
+### 11. User Referral Program
+##### Goal:
+The goal of this challenge is to analyze the data from a referral program and draw conclusions about its effectiveness.
+##### Challenge Description:
+- Can you estimate the impact the program had on the site?
+- Based on the data, what would you suggest to do as a next step?
+- The referral program wasn't really tested in a rigorous way. It simply started on a given day for all users and you are drawing conclusions by looking at the data before and after the test started. What kinds of risks this approach presents? Can you think of a better way to test the referral program and measure its impact?
