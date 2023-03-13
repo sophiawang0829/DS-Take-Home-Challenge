@@ -139,3 +139,18 @@ The goal of this exercise is to figure out the optimal stops for a bus shuttle.
 ##### Challenge Description:
 Write an algorithm that returns the best 10 stops in your opinion. Also, please explain the rationale behind the algorithm.
 
+
+### 15. Diversity in the Workplace
+##### Goal:
+Data science can help discover potential discriminations by looking at the data and see if there are segments of employees that are treated worse.
+##### Challenge Description:
+- In the company there are 6 levels (described below). Identify, for each employee, her corresponding level.
+    - Individual Contributors (IC) - they don't manage anyone
+    - Middle Managers (MM) - they are the direct bosses of IC
+    - Directors (D) - they are the direct bosses of MM
+    - VP - D direct bosses
+    - Executives (E) - VP direct bosses
+    - CEO - The direct boss of E.
+- How many people each employee manages? You should have a table with employee ids and the number of people managed. Consider that if John directly manages 2 people and these two people manage 5 people each, then we conclude that John manages 12 people.
+- Build a model to predict the salary of each employee.
+- Describe the main factors impacting employee salaries. Do you think the company has been treating its employees fairly? Do you see any bias? What are the next steps you would suggest to the Head of HR?
