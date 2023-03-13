@@ -133,9 +133,9 @@ The goal of this challenge is to build the foundation of personalization by inde
 - Travel sites are browsed by two kinds of users. Users who are actually planning a trip and users who just dream about a vacation. The first ones have obviously a much higher purchasing intent. Users planning a trip often search for cities close to each other, while users who search for cities far away from each other are often just dreaming about a vacation. That is, a user searching for LA, SF and Las Vegas in the same session is much more likely to book a hotel than a user searching for NY, Paris, Kuala Lumpur (makes sense, right?). Based on this idea, come up with an algorithm that clusters sessions into two groups: high intent and low intent. Explain all assumptions you make along the way.
 
 
-
-
-
-
-
+### 14. Optimization of Employee Shuttle Stops
+##### Goal:
+The goal of this exercise is to figure out the optimal stops for a bus shuttle.
+##### Challenge Description:
+Write an algorithm that returns the best 10 stops in your opinion. Also, please explain the rationale behind the algorithm.
 
