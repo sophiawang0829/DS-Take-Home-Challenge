@@ -122,3 +122,20 @@ The goal of this challenge is to improve loan models from banks.
 - Using the rules above, compare bank profitability vs your model profitability
 - Describe the impact of the most important variables on the prediction. Also, focus on the variable "is_employed", which describes whether the borrower is employed when she asks for the loan. How does this variable impact the model? Explain why
 - Are there any other variables, not in the data provided, that you'd have liked to include in the model?
+
+
+### 13. Json City Similarities
+##### Goal:
+The goal of this challenge is to build the foundation of personalization by indentifying searches likely to happen together and cluster users based on their session searches.
+##### Challenge Description:
+- There was a bug in the code and one country didn't get logged. It just shows up as an empty field (""). Can you guess which country was that? How?
+- For each city, find the most likely city to be also searched for within the same session.
+- Travel sites are browsed by two kinds of users. Users who are actually planning a trip and users who just dream about a vacation. The first ones have obviously a much higher purchasing intent. Users planning a trip often search for cities close to each other, while users who search for cities far away from each other are often just dreaming about a vacation. That is, a user searching for LA, SF and Las Vegas in the same session is much more likely to book a hotel than a user searching for NY, Paris, Kuala Lumpur (makes sense, right?). Based on this idea, come up with an algorithm that clusters sessions into two groups: high intent and low intent. Explain all assumptions you make along the way.
+
+
+
+
+
+
+
+
