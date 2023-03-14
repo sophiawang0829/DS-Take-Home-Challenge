@@ -167,4 +167,13 @@ The goal of this project is to parse a sequence of URLs about user searches and 
 algorithm.
 
 
+### 17. Engagement Test
+##### Goal:
+The goal of this project is to look at A/B test results and draw conclusions.
+##### Challenge Description:
+- Is the test winning? That is, should 100% of the users see the Recommended Friends feature?
+- Is the test performing similarly for all user segments or are there differences among different segments?
+- If you identified segments that responded differently to the test, can you guess the reason? Would this change your point 1 conclusions?
+
+
 
