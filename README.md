@@ -176,4 +176,14 @@ The goal of this project is to look at A/B test results and draw conclusions.
 - If you identified segments that responded differently to the test, can you guess the reason? Would this change your point 1 conclusions?
 
 
+### 18. On-Line Video Challenge
+##### Goal:
+The goal is to optimize the videos promoted on the home-page and, therefore, maximize ads revenue.
+##### Challenge Description:
+- Classify each video into one the 3 categories below and explain your approach:
+  - "Hot" - means trending up. These videos are candidate to be shown.
+  - "Stable and Popular" - video view counts are flat, but very high. These videos are candidates to be shown too.
+  - "Everything else" - these videos won't be shown.
+- What are the main characteristics of the "hot videos"?
+- After having identified the characteristics of the hot videos, how would you use this information from a product standpoint?
 
