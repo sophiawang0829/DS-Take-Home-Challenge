@@ -162,7 +162,8 @@ The goal of this project is to parse a sequence of URLs about user searches and 
 ##### Challenge Description:
 - Create a clean data set where each column is a field in the URL, each row is a given search and the cells are the corresponding URL values.
 - For each search query, how many amenities were selected?
-- Often, to measure the quality of a search algorithm, data scientists use some metric based on how often users click on the second page, third page, and so on. The idea here is that a great search algorithm should return all interesting results on the first page and never force users to visit the other pages (how often do you click on the second page results when you search on Google? Almost never, right?). Create a metric based on the above idea and find the city with the worst search
+- Often, to measure the quality of a search algorithm, data scientists use some metric based on how often users click on the second page, third page, and so on. The idea here is that a great search algorithm should return all interesting results on the first page and never force users to visit the other pages (how often do you click on the second page results when you search on Google? Almost never, right?). 
+  - Create a metric based on the above idea and find the city with the worst search
 algorithm.
 
 
