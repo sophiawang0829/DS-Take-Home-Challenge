@@ -187,3 +187,20 @@ The goal is to optimize the videos promoted on the home-page and, therefore, max
 - What are the main characteristics of the "hot videos"?
 - After having identified the characteristics of the hot videos, how would you use this information from a product standpoint?
 
+
+### 19. Subscription Retention Rate
+##### Goal:
+The goal of this challenge is to model subscription retention rate.
+##### Challenge Description:
+- A model that predicts monthly retention rate for the different subscription price points
+- Based on your model, for each price point, what percentage of users is still subscribed after at least 12 months?
+- How do user country and source affect subscription retention rate? How would you use these findings to improve the company revenue?
+
+
+### 20. Ads Analysis
+##### Goal:
+The goal of this project is to look at a few ad campaigns and analyze their current performance as well as predict their future performance.
+##### Challenge Description:
+- If you had to identify the 5 best ad groups, which ones would they be? Which metric did you choose to identify the best ad groups? Why? Explain the pros of your metric as well as the possible cons.
+- For each group, predict how many ads will be shown on Dec, 15 (assume each ad group keeps following its trend).
+- Cluster ads into 3 groups: the ones whose avg_cost_per_click is going up, the ones whose avg_cost_per_click is flat and the ones whose avg_cost_per_click is going down.
