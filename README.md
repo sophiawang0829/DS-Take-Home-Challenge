@@ -192,7 +192,7 @@ The goal is to optimize the videos promoted on the home-page and, therefore, max
 ##### Goal:
 The goal of this challenge is to model subscription retention rate.
 ##### Challenge Description:
-- A model that predicts monthly retention rate for the different subscription price points
+- A model that predicts monthly retention rate for the different subscription price points.
 - Based on your model, for each price point, what percentage of users is still subscribed after at least 12 months?
 - How do user country and source affect subscription retention rate? How would you use these findings to improve the company revenue?
 
